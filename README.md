@@ -7,10 +7,7 @@ RapidRecipe ayuda a estudiantes y profesionales a encontrar
 recetas fáciles adaptadas a sus ingredientes y tiempo disponible.
 
 ## Integrantes del equipo
-- Integrante 1 (Scrum Master)
-- Integrante 2 (Product Owner)
-- Integrante 3 (Desarrollador)
-- Integrante 4 (Desarrollador)
+- Ronal Mitma Antonio
 
 ## Tecnología propuesta
 - Android / Kotlin o React Native
